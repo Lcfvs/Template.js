@@ -136,7 +136,7 @@ section > div{
     min-width:150px;
 }
 section > div > p{
-    position:relative;
+    position:absolute;
     width:150px;
     margin-left:50%;
     left:-75px;
